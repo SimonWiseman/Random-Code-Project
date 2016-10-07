@@ -1,0 +1,5 @@
+projectKey=Licensing2:Licensing2
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/Licensing2:Licensing2
+ceTaskId=AVebVa6PBRgDntstfItA
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVebVa6PBRgDntstfItA
